@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trong Nhan Nguyen</h1>
 <h3 align="center">A passionate software developer from HCM University of Technology.</h3>
 
+## 🚀 About Me:
+
+- 🤝 I enjoy working on a variety of projects and am always eager to learn new technologies.
+
 - 🌱 I’m currently learning **ReactJS, Angular, NodeJS**
+
+-  🗓 In the next 3 years, my goal is becoming a senior fullstack developer
 
 - 📫 How to reach me **nhan.nguyencs04@gmail.com**
 
