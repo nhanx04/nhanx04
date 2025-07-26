@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="hhttps://www.linkedin.com/in/nhan-nguyen-trong-b352b7301/" target="blank">
+  <a href="https://www.linkedin.com/in/nhan-nguyen-trong-b352b7301/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn - Trong Nhan Nguyen" height="30" width="40" />
   </a>
 </p>
